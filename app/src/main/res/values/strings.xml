@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Int Adder</string>
+    <string name="share">Share</string>
+    <string name="calculate">Calc.</string>
+    <string name="input_numbers">Input numbers</string>
+</resources>
